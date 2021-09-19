@@ -56,3 +56,4 @@ int main() {
 	cout << Server::getLoad() << endl;
 	return 0;
 }
+
